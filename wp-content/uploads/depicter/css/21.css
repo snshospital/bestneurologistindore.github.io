@@ -1,0 +1,226 @@
+
+.depicter-revert.depicter-21 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-21-element-14{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#171717;
+	border-radius:5px 5px 5px 5px;
+}
+.depicter-revert .depicter-21-element-14:not(.depicter-hover-off){
+	transition:all ease 0.8s;
+}
+.depicter-revert .depicter-21-element-14:not(.depicter-hover-off):hover {
+	background-color:#171717;
+}
+.depicter-21-element-14 .depicter-arrow-icon{
+	fill:#222222;
+	transition:all ease 0.8s;
+}
+.depicter-21-element-14:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-21-element-15{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#171717;
+	border-radius:5px 5px 5px 5px;
+}
+.depicter-revert .depicter-21-element-15:not(.depicter-hover-off){
+	transition:all ease 0.8s;
+}
+.depicter-revert .depicter-21-element-15:not(.depicter-hover-off):hover {
+	background-color:#171717;
+}
+.depicter-21-element-15 .depicter-arrow-icon{
+	fill:#222222;
+	transition:all ease 0.8s;
+}
+.depicter-21-element-15:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-21-element-13{
+	font-size:16px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Roboto";
+	font-weight:400;
+	text-transform:uppercase;
+	box-shadow:0px 10px 65px 0px rgba(0, 0, 0, 0.11);
+	background-color:#1a635b;
+	border-radius:6px;
+}
+.depicter-revert .depicter-21-element-13:not(.depicter-hover-off){
+	transition:all ease 0.8s;
+}
+.depicter-revert .depicter-21-element-13:not(.depicter-hover-off):hover {
+	color:#191919;
+	background-color:#ffc533;
+}
+.depicter-revert .depicter-21-element-12{
+	font-size:25px;
+	text-align:left;
+	color:#000000;
+	font-family:"Roboto";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-21-element-11{
+	background-color:#1c1c1c;
+}
+.depicter-revert .depicter-21-element-10{
+	font-size:60px;
+	color:#1c1c1c;
+	font-family:"Roboto";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-21-section-1 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-21-element-59{
+	font-size:16px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Roboto";
+	font-weight:400;
+	text-transform:uppercase;
+	box-shadow:0px 10px 65px 0px rgba(0, 0, 0, 0.11);
+	background-color:#1a635b;
+	border-radius:6px;
+}
+.depicter-revert .depicter-21-element-59:not(.depicter-hover-off){
+	transition:all ease 0.8s;
+}
+.depicter-revert .depicter-21-element-59:not(.depicter-hover-off):hover {
+	color:#191919;
+	background-color:#ffc533;
+}
+.depicter-revert .depicter-21-element-58{
+	font-size:25px;
+	text-align:left;
+	color:#000000;
+	font-family:"Roboto";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-21-element-57{
+	background-color:#1c1c1c;
+}
+.depicter-revert .depicter-21-element-56{
+	font-size:60px;
+	color:#1c1c1c;
+	font-family:"Roboto";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-21-section-54 .depicter-section-background{
+	background-color:#FFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-21-element-13{
+	font-size:13px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Roboto";
+	font-weight:400;
+	text-transform:uppercase;
+}
+.depicter-revert .depicter-21-element-12{
+	font-size:15px;
+	color:#a4a4a4;
+	font-family:"Roboto";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-21-element-10{
+	font-size:53px;
+	color:#1c1c1c;
+	font-family:"Roboto";
+	font-weight:700;
+	line-height:120%;
+}
+.depicter-revert .depicter-21-element-59{
+	font-size:13px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Roboto";
+	font-weight:400;
+	text-transform:uppercase;
+}
+.depicter-revert .depicter-21-element-58{
+	font-size:15px;
+	color:#a4a4a4;
+	font-family:"Roboto";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-21-element-56{
+	font-size:53px;
+	color:#1c1c1c;
+	font-family:"Roboto";
+	font-weight:700;
+	line-height:120%;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-21-element-13{
+	font-size:11px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Roboto";
+	font-weight:400;
+	text-transform:uppercase;
+}
+.depicter-revert .depicter-21-element-12{
+	font-size:12px;
+	color:#a4a4a4;
+	font-family:"Roboto";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-21-element-10{
+	font-size:34px;
+	color:#1c1c1c;
+	font-family:"Roboto";
+	font-weight:700;
+	line-height:120%;
+}
+.depicter-revert .depicter-21-element-59{
+	font-size:11px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Roboto";
+	font-weight:400;
+	text-transform:uppercase;
+}
+.depicter-revert .depicter-21-element-58{
+	font-size:12px;
+	color:#a4a4a4;
+	font-family:"Roboto";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-21-element-56{
+	font-size:34px;
+	color:#1c1c1c;
+	font-family:"Roboto";
+	font-weight:700;
+	line-height:120%;
+}
+
+}

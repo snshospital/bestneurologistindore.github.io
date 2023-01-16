@@ -1,0 +1,372 @@
+
+.depicter-revert.depicter-1 .depicter-section{
+	min-height:600px;
+}
+.depicter-revert.depicter-1 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-1-element-16{
+	box-shadow:10px 17px 65px 0px rgba(0, 0, 0, 0.14);
+	background-color:#ffc73d;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-revert .depicter-1-element-16:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-1-element-16:not(.depicter-hover-off):hover {
+	transform:scale(1.2);
+	background-color:#ffffff;
+}
+.depicter-1-element-16 .depicter-arrow-icon{
+	fill:#000;
+	transition:all ease 0.5s;
+}
+.depicter-1-element-16:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-17{
+	box-shadow:10px 17px 65px 0px rgba(0, 0, 0, 0.14);
+	background-color:#ffc73d;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-revert .depicter-1-element-17:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-1-element-17:not(.depicter-hover-off):hover {
+	transform:scale(1.2);
+	background-color:#ffffff;
+}
+.depicter-1-element-17 .depicter-arrow-icon{
+	fill:#000;
+	transition:all ease 0.5s;
+}
+.depicter-1-element-17:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-8{
+	font-size:40px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:200%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-23{
+	font-size:66px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-22{
+	font-size:66px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-21{
+	font-size:66px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-2{
+	background-color:#002710;
+	border-radius:0px 0px 450px 0px;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-29{
+	font-size:40px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:200%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-35{
+	font-size:66px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-34{
+	font-size:66px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-33{
+	font-size:66px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-25{
+	background-color:#002710;
+	border-radius:0px 0px 450px 0px;
+}
+.depicter-revert .depicter-1-section-24 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-41{
+	font-size:16px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:200%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-40{
+	font-size:21px;
+	color:#ffc73d;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-47{
+	font-size:66px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-46{
+	font-size:66px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-45{
+	font-size:66px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-38{
+	background-color:#0328d7;
+	border-radius:0px 0px 450px 0px;
+}
+.depicter-revert .depicter-1-section-37 .depicter-section-background{
+	background-color:#FFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert.depicter-1 .depicter-section{
+	min-height:600px;
+}
+.depicter-revert .depicter-1-element-8{
+	font-size:13px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:200%;
+}
+.depicter-revert .depicter-1-element-23{
+	font-size:52px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-22{
+	font-size:52px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-21{
+	font-size:52px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-29{
+	font-size:13px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:200%;
+}
+.depicter-revert .depicter-1-element-35{
+	font-size:52px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-34{
+	font-size:52px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-33{
+	font-size:52px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-41{
+	font-size:13px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:200%;
+}
+.depicter-revert .depicter-1-element-40{
+	font-size:19px;
+	color:#ffc73d;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+}
+.depicter-revert .depicter-1-element-47{
+	font-size:52px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-46{
+	font-size:52px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-45{
+	font-size:52px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert.depicter-1 .depicter-section{
+	min-height:600px;
+}
+.depicter-revert .depicter-1-element-8{
+	font-size:11px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:200%;
+}
+.depicter-revert .depicter-1-element-23{
+	font-size:33px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-22{
+	font-size:33px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-21{
+	font-size:33px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-29{
+	font-size:11px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:200%;
+}
+.depicter-revert .depicter-1-element-35{
+	font-size:33px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-34{
+	font-size:33px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-33{
+	font-size:33px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-41{
+	font-size:11px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:200%;
+}
+.depicter-revert .depicter-1-element-40{
+	font-size:16px;
+	color:#ffc73d;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+}
+.depicter-revert .depicter-1-element-47{
+	font-size:33px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-46{
+	font-size:33px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+.depicter-revert .depicter-1-element-45{
+	font-size:33px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:138%;
+}
+
+}
